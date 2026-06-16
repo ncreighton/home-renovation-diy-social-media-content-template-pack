@@ -1,2 +1,25 @@
-# home-renovation-diy-social-media-content-template-pack
-30 days of post templates, stories, reels scripts, and engagement prompts for Home Renovation &amp; DIY. Never run out of content ideas.
+# Home Renovation & DIY Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B63cv12De2M8FGeM4d010l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B63cv12De2M8FGeM4d010l)
+
